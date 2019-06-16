@@ -20,6 +20,11 @@ document.writeln("	      <a class=\'top2\' href=\'/\'>");
 document.writeln("	        <span class=\'top1\'><i class=\'fa fa-home\'></i> 首页</span>");
 document.writeln("	      </a>");
 document.writeln("	    </li>");
+document.writeln("	    <li class=\'top3\'>");
+document.writeln("	      <a class=\'top2\' href=\'https://www.mini8.top/index.php?c=D3View&a=overall&id=195397&share=1&from=singlemessage\'>");
+document.writeln("	        <span class=\'top1\'><i class=\'fa fa-film\'></i> 片段VBLOG</span>");
+document.writeln("	      </a>");
+document.writeln("	    </li>");
 
 document.writeln("	  </ul>");
 document.writeln("	</nav>");
