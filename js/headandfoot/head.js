@@ -22,12 +22,12 @@ document.writeln("	      </a>");
 document.writeln("	    </li>");
 document.writeln("	    <li class=\'top3\'>");
 document.writeln("	      <a class=\'top2\' href=\'/html/link.html\'>");
-document.writeln("	        <span class=\'top1\'><i class=\'fa fa-home\'></i> 链接</span>");
+document.writeln("	        <span class=\'top1\'><i class=\'fa fa-link\'></i> 链接</span>");
 document.writeln("	      </a>");
 document.writeln("	    </li>");
 document.writeln("	    <li class=\'top3\'>");
 document.writeln("	      <a class=\'top2\' href=\'/html/call.html\'>");
-document.writeln("	        <span class=\'top1\'><i class=\'fa fa-home\'></i> 联系方式</span>");
+document.writeln("	        <span class=\'top1\'><i class=\'fa fa-address-card\'></i> 联系方式</span>");
 document.writeln("	      </a>");
 document.writeln("	    </li>");
 
