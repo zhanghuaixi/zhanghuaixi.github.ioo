@@ -42,7 +42,7 @@ document.writeln("	  <div id=\'head-text\'>");
 document.writeln("		<a class=\'headtext\'>大妖怪张淮汐</a>");
 document.writeln("	  </div>");
 document.writeln("	  <div>");
-document.writeln("		<div class=\'tanwen\'><p id=\'hitokoto\'>..一言获取中..</p></div>");
+document.writeln("		<div class=\'tanwen\'><span id=\'hitokoto\'>..一言获取中..</span>--<span id=\'creator\'>..作者获取中..</span></div>");
 document.writeln("	  </div>");
 document.writeln("    </header>");
 document.writeln("<script src=\'../js/1.js\'></script>");
