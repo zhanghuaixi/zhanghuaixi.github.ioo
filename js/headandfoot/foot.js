@@ -9,7 +9,6 @@ document.writeln("  </head>");
 document.writeln("  <body>");
 
 document.writeln("<footer id=\'footer\'>");
-document.writeln("<iframe frameborder=\'no\' border=\'0\' marginwidth=\'0\' marginheight=\'0\' width=100% height=110 src=\'//music.163.com/outchain/player?type=0&id=2805601177&auto=1&height=90\'></iframe>");
 document.writeln("	  <p class=\'hhh\'>");
 document.writeln("	  </p>");
 document.writeln("	  <span class=\'hh\' id=\'runtm\'></span>");
