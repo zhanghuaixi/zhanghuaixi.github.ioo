@@ -171,7 +171,12 @@ function show_runtime(){window.setTimeout("show_runtime()",1000);X=new Date("04/
     .then(function (data) {
       var hitokoto = document.getElementById('hitokoto');
       hitokoto.innerText = data.hitokoto; 
-    })
+    
+      var creator = document.getElementById('creator');
+      creator.innerText = data.creator; 
+    
+
+})
     .catch(function (err) {
       console.error(err);
     })
