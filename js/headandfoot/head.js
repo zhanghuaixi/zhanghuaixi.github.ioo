@@ -21,8 +21,13 @@ document.writeln("	        <span class=\'top1\'><i class=\'fa fa-home\'></i> 首
 document.writeln("	      </a>");
 document.writeln("	    </li>");
 document.writeln("	    <li class=\'top3\'>");
-document.writeln("	      <a class=\'top2\' href=\'https://www.mini8.top/index.php?c=D3View&a=overall&id=195397&share=1&from=singlemessage\'>");
-document.writeln("	        <span class=\'top1\'><i class=\'fa fa-film\'></i> 片段VBLOG</span>");
+document.writeln("	      <a class=\'top2\' href=\'/html/link.html\'>");
+document.writeln("	        <span class=\'top1\'><i class=\'fa fa-home\'></i> 链接</span>");
+document.writeln("	      </a>");
+document.writeln("	    </li>");
+document.writeln("	    <li class=\'top3\'>");
+document.writeln("	      <a class=\'top2\' href=\'/html/call.html\'>");
+document.writeln("	        <span class=\'top1\'><i class=\'fa fa-home\'></i> 联系方式</span>");
 document.writeln("	      </a>");
 document.writeln("	    </li>");
 
