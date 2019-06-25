@@ -45,6 +45,13 @@ document.writeln("	  <div>");
 document.writeln("		<div class=\'tanwen\'><span id=\'hitokoto\'>..一言获取中..</span>--<span id=\'creator\'>..作者获取中..</span></div>");
 document.writeln("	  </div>");
 document.writeln("    </header>");
+
+document.writeln("<article class=\'artt\'>");
+document.writeln("	  <div class=\'arttt\'>");
+document.writeln("	<marquee>公告：由于邻近中考，所以网页不怎么更新，祝我中考顺利吧！现在的网页版本是：201906010000</marquee>");
+document.writeln("	  </div>");
+document.writeln("	</article>");
+
 document.writeln("<script src=\'../js/1.js\'></script>");
 document.writeln("	<script>var menu = new Menu;</script>");
 document.writeln("  </body>");
