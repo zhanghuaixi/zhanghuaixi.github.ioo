@@ -11,7 +11,7 @@ document.writeln("	<div id=\'cem\'></div>");
 document.writeln("	<button id=\'top7\' class=\'top7\'></button>");
 document.writeln("	<nav id=\'top6\' class=\'top6\'>");
 document.writeln("	  <div class=\'top5\'>");
-document.writeln("	    <h2 class=\'top4\'>小妖怪张淮汐</h2>");
+document.writeln("	    <h2 class=\'top4\'>张淮汐</h2>");
 document.writeln("	  </div>");
 document.writeln("	  <ul class=\'top3s\'>");
 
@@ -39,7 +39,7 @@ document.writeln("		<a>");
 document.writeln("		  <img src=\'http://q1.qlogo.cn/g?b=qq&nk=3317229064&s=640\'></a>");
 document.writeln("	  </div>");
 document.writeln("	  <div id=\'head-text\'>");
-document.writeln("		<a class=\'headtext\'>小妖怪张淮汐</a>");
+document.writeln("		<a class=\'headtext\'>张淮汐</a>");
 document.writeln("	  </div>");
 document.writeln("	  <div>");
 document.writeln("		<div class=\'tanwen\'><span id=\'hitokoto\'>..一言获取中..</span>--<span id=\'creator\'>..作者获取中..</span></div>");
@@ -48,7 +48,7 @@ document.writeln("    </header>");
 
 document.writeln("<article class=\'artt\'>");
 document.writeln("	  <div class=\'arttt\'>");
-document.writeln("	<marquee>公告：由于邻近中考，所以网页不怎么更新，祝我中考顺利吧！现在的网页版本是：201906010000</marquee>");
+document.writeln("	公告 <marquee>无</marquee>");
 document.writeln("	  </div>");
 document.writeln("	</article>");
 
