@@ -53,7 +53,7 @@ document.writeln("    </header>");
 
 document.writeln("<article class=\'artt\'>");
 document.writeln("	  <div class=\'arttt\'>");
-document.writeln("	公告 <marquee>无</marquee>");
+document.writeln("	<center>公告</center> <marquee>无</marquee>");
 document.writeln("	  </div>");
 document.writeln("	</article>");
 
