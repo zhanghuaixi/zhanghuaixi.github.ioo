@@ -13,7 +13,7 @@ document.writeln("<iframe frameborder=\'no\' border=\'0\' marginwidth=\'0\' marg
 document.writeln("<iframe src=\'https://f.wps.cn/form-write/PLH0N2Nf\' frameBorder=\'0\' width=100% scrolling=\'yes\' height=\'300\'></iframe> ");
 
 
-document.writeln("	  <p class=\'hh\'>201906010000 张淮汐");
+document.writeln("	  <p class=\'hh\'>201907162116 张淮汐<br>部分源码来自开源代码和网页扒取<br>如有侵权，请尽快联系以沟通解决！");
 document.writeln("	  </p>");
 document.writeln("	  <span class=\'hh\' id=\'runtm\'></span>");
 document.writeln("	</footer>");
