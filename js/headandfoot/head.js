@@ -30,6 +30,11 @@ document.writeln("	      <a class=\'top2\' href=\'/html/call.html\'>");
 document.writeln("	        <span class=\'top1\'><i class=\'fa fa-address-card\'></i> 联系方式</span>");
 document.writeln("	      </a>");
 document.writeln("	    </li>");
+document.writeln("	    <li class=\'top3\'>");
+document.writeln("	      <a class=\'top2\' href=\'/html/diary.html\'>");
+document.writeln("	        <span class=\'top1\'><i class=\'fa fa-address-card\'></i> 网页日志</span>");
+document.writeln("	      </a>");
+document.writeln("	    </li>");
 
 document.writeln("	  </ul>");
 document.writeln("	</nav>");
